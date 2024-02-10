@@ -11,6 +11,9 @@
 }
 
 .pawprint {
+  position: fixed;
+  top: 45px;
+  left: 65px;
 }
 
 .luna {
